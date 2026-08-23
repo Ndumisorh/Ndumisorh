@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ndumiso
 
-<!--
-**Ndumisorh/Ndumisorh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer
 
-Here are some ideas to get you started:
+I build software applications across backend systems, databases, and responsive web platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+* **Languages:** C#, Java, SQL, Python, JavaScript, HTML, CSS
+* **Frameworks & Tools:** .NET, Git, Visual Studio, VS Code, MySQL Workbench
+
+---
+
+* Developing robust object-oriented software and API backend systems.
+* Designing relational databases and writing clean, optimized SQL queries.
+* Building responsive user interfaces and modern web tools.
+  
+---
+
+### 📬 Connect with Me
+
+* **LinkedIn:** [Mpendulo Nzama](https://www.linkedin.com/in/mpendulo-nzama-306686411)
+* **Email:** nzamampendulo7@gmail.com
