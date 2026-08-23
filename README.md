@@ -20,6 +20,6 @@ I build software applications across backend systems, databases, and responsive 
 ---
 
 ### 📬 Connect with Me
-
+* **Live Portfolio:** [ndumisorh.github.io/dev-portfolio](https://ndumisorh.github.io/dev-portfolio/)
 * **LinkedIn:** [Mpendulo Nzama](https://www.linkedin.com/in/mpendulo-nzama-306686411)
 * **Email:** nzamampendulo7@gmail.com
